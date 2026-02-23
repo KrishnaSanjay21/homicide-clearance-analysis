@@ -24,4 +24,4 @@ Through extensive feature engineering and machine learning, this analysis proves
 * `visualizations/`: Correlation matrices and Plotly forecasting charts.
 
 ## 🔗 Full Report
-[Click here to read the full formal PDF report.](Link_to_your_PDF_in_the_repo)
+[Click here to read the full formal PDF report.](https://github.com/KrishnaSanjay21/homicide-clearance-analysis/blob/main/Homicide_Clearance_Rates_Report_Vaddi.pdf)
